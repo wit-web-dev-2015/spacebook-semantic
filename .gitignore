@@ -2,5 +2,5 @@
 .*
 # except for .gitignore
 !.gitignore
+!.project
 .classpath
-.project
